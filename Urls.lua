@@ -4,3 +4,5 @@ local URLs = {
 
     -- Add more URLs here.
 }
+
+return URLS
